@@ -32,8 +32,6 @@ public class KarateChop {
 	}
 	
 	static int chopRecursive(int target, int[] array_of_int, int min, int max) {
-//		int min = 0;
-//		int max = array_of_int.length - 1;
 		if (max < min)
 			return KEY_NOT_FOUND;
 		else {
