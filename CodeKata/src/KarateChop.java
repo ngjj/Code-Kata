@@ -12,7 +12,6 @@ public class KarateChop {
 
   /**
    * Done by NJJ
-   * Thanks thanks
    * @param target
    * @param array_of_int
    * @return
